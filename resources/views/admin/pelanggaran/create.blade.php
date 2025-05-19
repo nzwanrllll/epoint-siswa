@@ -40,7 +40,7 @@
         <input type="text" id="poin" name="poin" value="{{ old('poin') }}"><br>
         <br><br>
 
-        <input type="submit" value="Sumbit">
+        <input type="submit" value="Register">
     </form>
 </body>
 </html>
